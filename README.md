@@ -32,7 +32,9 @@ Information & Tips with beautiful code snippets. 🌈
 ```
 
 ### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api/?username=code-architects" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api/?username=code-architects&show_icons=true" alt="git stats">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects)
 
 ### Links ⚡
 <a href="https://code-architects.github.io" target="_blank"> Website </a> | <a href="https://www.instagram.com/code.architects"> Instagram </a> | <a href="https://www.youtube.com/channel/UCSCMabxk13HlVU-7pahvGyg"> YouTube </a>
