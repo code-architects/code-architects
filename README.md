@@ -38,3 +38,5 @@ Information & Tips with beautiful code snippets. 🌈
 
 ### Links ⚡
 <a href="https://code-architects.github.io" target="_blank"> Website </a> | <a href="https://www.instagram.com/code.architects"> Instagram </a> | <a href="https://www.youtube.com/channel/UCSCMabxk13HlVU-7pahvGyg"> YouTube </a>
+
+<img src="https://komarev.com/ghpvc/?username=code-architects" alt="Code-Architects" />
