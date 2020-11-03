@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center"> Hi, I am Code Architects 💻 </h2>
-<p align="center"><a href="https://www.instargram.com/code.archiects">@code.architects</a></p>
+<p align="center"><a href="https://www.instagram.com/code.architects">@code.architects</a></p>
 
 ### Bio 👨‍🦱
 ```
