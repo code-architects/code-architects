@@ -23,18 +23,15 @@ Here are some ideas to get you started:
 
 ### Bio 👨‍🦱
 ```
-A Instagram Account aimed to teach Web Development 💻 
-Information & Tips with beautiful code snippets. 🌈
+Code Architects is an Instagram page aimed at Teaching Web Development to beginners.
+We provide well-crafted web resources and tutorials. It is created & managed by those 2 guys.
 
-💻 | Code snippets
-📚 | Post about Web related
+💻 | Making web development easier for beginners
 💬 | Mail us if you need help
 ```
 
 ### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api/?username=code-architects&show_icons=true" alt="git stats">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects)
+<img src="https://github-readme-stats.vercel.app/api/?username=code-architects&show_icons=true" alt="git stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects" alt="Github stats">
 
 ### Links ⚡
 <a href="https://code-architects.github.io" target="_blank"> Website </a>
