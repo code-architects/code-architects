@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 ```
 Code Architects is an Instagram page aimed at Teaching Web Development to beginners.
 We provide well-crafted web resources and tutorials. It is created & managed by those 2 guys.
-
-💻 | Making web development easier for beginners
-💬 | Mail us if you need help
 ```
 
 ### Github Stats 💯
@@ -36,6 +33,6 @@ We provide well-crafted web resources and tutorials. It is created & managed by 
 ### Links ⚡
 <a href="https://code-architects.github.io" target="_blank"> Website </a>
 
-<a href="https://www.instagram.com/code.architects"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.youtube.com/channel/UCSCMabxk13HlVU-7pahvGyg"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+<a href="https://www.instagram.com/code.architects"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.youtube.com/channel/UCSCMabxk13HlVU-7pahvGyg"> <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> </a> <a href="https://teamcodearchitects.com"> Official Website</a>
 
 <img src="https://komarev.com/ghpvc/?username=code-architects" alt="Code-Architects" />
