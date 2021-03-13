@@ -23,6 +23,6 @@ We provide well-crafted web resources and tutorials. It is created & managed by 
 <details>
   <summary>Github Stats 💯 </summary>
   <img src="https://github-readme-stats.vercel.app/api/?username=code-architects&show_icons=true" alt="git stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-architects" alt="Github stats">
-  
+  <br />
   <img src="https://komarev.com/ghpvc/?username=code-architects" alt="Code-Architects" />
 </details>
