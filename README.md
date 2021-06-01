@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/code-architects/code-architects/master/logo%20-%20400%20-%201.png" width="60ox" height="60px" />
+  <img src="https://raw.githubusercontent.com/code-architects/code-architects/master/new%20code%20architects%20logo.jpg" width="60ox" height="60px" />
 </p>
 
 <h2 align="center"> Hi, I am Code Architects 💻 </h2>
