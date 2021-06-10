@@ -12,7 +12,7 @@ We provide well-crafted web resources and tutorials. It is created & managed by 
 ```
 
 ### Links ⚡
-<a href="https://code-architects.github.io" target="_blank"> Website </a> <a href="https://twitter.com/codearchitects2"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codearchitects2" height="30" width="40" /></a> <a href="https://instagram.com/code.architects"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.architects" height="30" width="40" /></a>
+<a href="https://teamcodearchitects.com" target="_blank"> Website </a> <a href="https://twitter.com/codearchitects2"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codearchitects2" height="30" width="40" /></a> <a href="https://instagram.com/code.architects"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.architects" height="30" width="40" /></a>
 
 <details>
   <summary>Tools</summary>
