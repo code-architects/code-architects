@@ -2,16 +2,14 @@
   <img src="https://raw.githubusercontent.com/code-architects/code-architects/master/new%20code%20architects%20logo.jpg" width="60ox" height="60px" />
 </p>
 
-<h2 align="center"> Hi, I am Code Architects 💻 </h2>
+<h2 align="center"> Hi, We are Code Architects 💻 </h2>
 <p align="center"><a href="https://www.instagram.com/code.architects">@code.architects</a></p>
 
-### Bio 👨‍🦱
-```
-Code Architects is an Instagram page aimed at Teaching Web Development to beginners.
-We provide well-crafted web resources and tutorials. It is created & managed by those 2 guys.
-```
+## Bio 📜
+We share Web Development tips & tricks with **Resources**. Crafted & Managed by those *2 guys*. GitHub for Source Codes of Instagram Codes. 
 
-### Links ⚡
+
+## Social Media Links ⚡
 <a href="https://teamcodearchitects.com" target="_blank"> Website </a> <a href="https://twitter.com/codearchitects2"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codearchitects2" height="30" width="40" /></a> <a href="https://instagram.com/code.architects"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.architects" height="30" width="40" /></a>
 
 <details>
