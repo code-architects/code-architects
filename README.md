@@ -2,20 +2,16 @@
   <img src="https://raw.githubusercontent.com/code-architects/code-architects/master/new%20code%20architects%20logo.jpg" width="60ox" height="60px" />
 </p>
 
-<h2 align="center"> Hi, We are Code Architects 💻 </h2>
-<p align="center"><a href="https://www.instagram.com/code.architects">@code.architects</a></p>
+<h2> Hi, We are Code Architects 💻</h2>
+<p><a href="https://www.instagram.com/code.architects">@code.architects</a></p>
 
 ## Bio 📜
 Code Architects is a destination for aspiring web developers to learn and grow. Our Instagram page offers a range of tutorials and resources to help beginners master the art of web development. Join us on our journey to demystify web development and unlock the potential of the web. Crafted & Managed by those *2 guys*.
 
 
-## Social Media Links ⚡
-<a href="https://teamcodearchitects.com" target="_blank"> Website </a> <a href="https://twitter.com/codearchitects2"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codearchitects2" height="30" width="40" /></a> <a href="https://instagram.com/code.architects"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="code.architects" height="30" width="40" /></a>
+## Links ⚡
+<a href="https://teamcodearchitects.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&label=" /> </a> <a href="https://twitter.com/codearchitects2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="codearchitects2" /></a> <a href="https://instagram.com/code.architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="code.architects" /></a> <a href="https://codepen.io/code-architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=" /></a>
 
-<details>
-  <summary>Tools</summary>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-</details>
 
 <details>
   <summary>Github Stats 💯 </summary>
