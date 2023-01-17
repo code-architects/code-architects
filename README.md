@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/code-architects/code-architects/master/new%20code%20architects%20logo.jpg" width="60ox" height="60px" />
 </p>
 
