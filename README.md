@@ -6,7 +6,7 @@
 <p align="center"><a href="https://www.instagram.com/code.architects">@code.architects</a></p>
 
 ## Bio 📜
-We share Web Development tips & tricks with **Resources**. Crafted & Managed by those *2 guys*. GitHub for Source Codes of Instagram Codes. 
+Code Architects is a destination for aspiring web developers to learn and grow. Our Instagram page offers a range of tutorials and resources to help beginners master the art of web development. Join us on our journey to demystify web development and unlock the potential of the web. Crafted & Managed by those *2 guys*.
 
 
 ## Social Media Links ⚡
