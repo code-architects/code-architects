@@ -3,7 +3,7 @@ Code Architects is a destination for aspiring web developers to learn and grow. 
 
 
 ## Links ⚡
-<a href="https://teamcodearchitects.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&label=" /> </a> <a href="https://twitter.com/codearchitects2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="codearchitects2" /></a> <a href="https://instagram.com/code.architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="code.architects" /></a> <a href="https://codepen.io/code-architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=" /></a>
+<a href="https://code-architects.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=000000&label=" /> </a> <a href="https://twitter.com/codearchitects2"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="codearchitects2" /></a> <a href="https://instagram.com/code.architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="code.architects" /></a> <a href="https://codepen.io/code-architects"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=" /></a>
 
 
 <details>
